@@ -135,13 +135,15 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 -----------------------------------------------------------------------------------------------------------------
 
 
-## C11: (uhm, these are actually not the real solutions I submitted, I fixed most of the KO and forgor to commit them here (not the cheating one, because I'm a moron), and now I got no way to get them back, sorry-, I'll leave what I think they would get)
+## C11
 
 · 00 OK
 
 · 01 Cheating (LOL, I used free to free up a failed malloc when that doesn't even make sense and the use of free was not allowed, remove that free and it should be ok, I think. that's what happens when you don't read)
 
 · 02-07 KO
+
+Uhm, these are actually not the real solutions I submitted, I fixed most of the KO and forgor to commit them here (not the cheating one, because I'm a moron), and now I got no way to get them back, sorry-, I'll leave what I think they would get
 
 
 -----------------------------------------------------------------------------------------------------------------
