@@ -1,4 +1,5 @@
 # piscine-42-campus
+
 My solutions of the exercises I've done, most are right, some are wrong. Here are the specifics.
 Before anything tho, I recommend trying them out for yourselves before copying, that's the only way to learn, same applies for the use of chatgpt and its cousins (fun fact, they are quite terrible at C for some reason).
 
@@ -6,13 +7,15 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 -----------------------------------------------------------------------------------------------------------------
 
 
-Shell00: all are OK
+# Shell00:
+
+· all are OK
 
 
 -----------------------------------------------------------------------------------------------------------------
 
 
-Shell01:
+# Shell01
 
 · 01-05 OK
 
@@ -22,19 +25,23 @@ Shell01:
 -----------------------------------------------------------------------------------------------------------------
 
 
-C00: all are OK
+# C00
+
+·all are OK
 
 
 -----------------------------------------------------------------------------------------------------------------
 
 
-C01: all are OK
+# C01
+
+·all are OK
 
 
 -----------------------------------------------------------------------------------------------------------------
 
 
-C02:
+# C02
 
 · 00-08 OK
 
@@ -44,13 +51,15 @@ C02:
 -----------------------------------------------------------------------------------------------------------------
 
 
-C03: all are OK
+# C03
+
+· all are OK
 
 
 -----------------------------------------------------------------------------------------------------------------
 
 
-C04:
+# C04
 
 · 00-02 OK
 
@@ -64,7 +73,7 @@ C04:
 -----------------------------------------------------------------------------------------------------------------
 
 
-C05:
+# C05
 
 · 00-07 OK
 
@@ -74,13 +83,15 @@ C05:
 -----------------------------------------------------------------------------------------------------------------
 
 
-C06: all are ok
+# C06
+
+·all are ok
 
 
 -----------------------------------------------------------------------------------------------------------------
 
 
-C07:
+# C07:
 
 · 00-03 OK
 
@@ -90,7 +101,7 @@ C07:
 -----------------------------------------------------------------------------------------------------------------
 
 
-C08:
+# C08:
 
 · 00-03 OK
 
@@ -102,13 +113,15 @@ C08:
 -----------------------------------------------------------------------------------------------------------------
 
 
-C09: all are OK
+# C09
+
+· all are OK
 
 
 -----------------------------------------------------------------------------------------------------------------
 
 
-C10:
+# C10:
 
 · 00 OK
 
@@ -122,7 +135,7 @@ C10:
 -----------------------------------------------------------------------------------------------------------------
 
 
-C11: (uhm, these are actually not the real solutions I submitted, I fixed most of the KO and forgor to commit them here (not the cheating one, because I'm a moron), and now I got no way to get them back, sorry-, I'll leave what I think they would get)
+# C11: (uhm, these are actually not the real solutions I submitted, I fixed most of the KO and forgor to commit them here (not the cheating one, because I'm a moron), and now I got no way to get them back, sorry-, I'll leave what I think they would get)
 
 · 00 OK
 
@@ -134,14 +147,20 @@ C11: (uhm, these are actually not the real solutions I submitted, I fixed most o
 -----------------------------------------------------------------------------------------------------------------
 
 
-C12: never got to correct them
+# C12
+
+· never got to correct them
 
 
 -----------------------------------------------------------------------------------------------------------------
 
 
-C13: never got to correct them, also last one is not even done because I was too tired to learn BFS
+# C13
 
+· never got to correct them, also last one is not even done because I was too tired to learn BFS
+
+
+-----------------------------------------------------------------------------------------------------------------
 
 
 I had to pass C10 and C11 to be able to correct the last 2, I just did not have the time and the energy to do that. Also I did not feel like coding up hexdump if I got to be honest.
