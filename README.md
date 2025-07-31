@@ -4,15 +4,9 @@ My solutions of the exercises I've done, most are right, some are wrong. Here ar
 Before anything tho, I recommend trying them out for yourselves before copying, that's the only way to learn, same applies for the use of chatgpt and its cousins (fun fact, they are quite terrible at C for some reason).
 
 
------------------------------------------------------------------------------------------------------------------
-
-
 ## Shell00:
 
 * all are OK
-
-
------------------------------------------------------------------------------------------------------------------
 
 
 ## Shell01
@@ -22,23 +16,17 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 * rest not done
 
 
------------------------------------------------------------------------------------------------------------------
-
 
 ## C00
 
 * all are OK
 
 
------------------------------------------------------------------------------------------------------------------
-
 
 ## C01
 
 * all are OK
 
-
------------------------------------------------------------------------------------------------------------------
 
 
 ## C02
@@ -48,15 +36,11 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 * 09-12 OK
 
 
------------------------------------------------------------------------------------------------------------------
-
 
 ## C03
 
 * all are OK
 
-
------------------------------------------------------------------------------------------------------------------
 
 
 ## C04
@@ -70,8 +54,6 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 * 05 KO
 
 
------------------------------------------------------------------------------------------------------------------
-
 
 ## C05
 
@@ -80,15 +62,11 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 * 08 timeout (uhm, I don't wanna talk about it, it gets the right answer, it just takes about 8 mins, I hec*ing love brute force)
 
 
------------------------------------------------------------------------------------------------------------------
-
 
 ## C06
 
 * all are ok
 
-
------------------------------------------------------------------------------------------------------------------
 
 
 ## C07:
@@ -97,8 +75,6 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 
 * 04-05 KO (check C09 ex02 for split solution, I fixed it there)
 
-
------------------------------------------------------------------------------------------------------------------
 
 
 ## C08:
@@ -110,15 +86,11 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 * 05 OK
 
 
------------------------------------------------------------------------------------------------------------------
-
 
 ## C09
 
 * all are OK
 
-
------------------------------------------------------------------------------------------------------------------
 
 
 ## C10:
@@ -132,8 +104,6 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 * 03 not done (you must actually, you must get a 100.. yeah that's annoying)
 
 
------------------------------------------------------------------------------------------------------------------
-
 
 ## C11
 
@@ -146,23 +116,16 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 Uhm, these are actually not the real solutions I submitted, I fixed most of the KO and forgor to commit them here (not the cheating one, because I'm a moron), and now I got no way to get them back, sorry-, I'll leave what I think they would get
 
 
------------------------------------------------------------------------------------------------------------------
-
 
 ## C12
 
 * never got to correct them
 
 
------------------------------------------------------------------------------------------------------------------
-
-
 ## C13
 
 * never got to correct them, also last one is not even done because I was too tired to learn BFS
 
-
------------------------------------------------------------------------------------------------------------------
 
 
 I had to pass C10 and C11 to be able to correct the last 2, I just did not have the time and the energy to do that. Also I did not feel like coding up hexdump if I got to be honest.
