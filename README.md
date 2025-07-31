@@ -27,7 +27,7 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 
 ## C00
 
-·all are OK
+· all are OK
 
 
 -----------------------------------------------------------------------------------------------------------------
@@ -35,7 +35,7 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 
 ## C01
 
-·all are OK
+· all are OK
 
 
 -----------------------------------------------------------------------------------------------------------------
@@ -85,7 +85,7 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 
 ## C06
 
-·all are ok
+· all are ok
 
 
 -----------------------------------------------------------------------------------------------------------------
