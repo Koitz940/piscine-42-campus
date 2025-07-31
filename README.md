@@ -9,7 +9,7 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 
 ## Shell00:
 
-· all are OK
+* all are OK
 
 
 -----------------------------------------------------------------------------------------------------------------
@@ -17,9 +17,9 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 
 ## Shell01
 
-· 01-05 OK
+* 01-05 OK
 
-· rest not done
+* rest not done
 
 
 -----------------------------------------------------------------------------------------------------------------
@@ -27,7 +27,7 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 
 ## C00
 
-· all are OK
+* all are OK
 
 
 -----------------------------------------------------------------------------------------------------------------
@@ -35,7 +35,7 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 
 ## C01
 
-· all are OK
+* all are OK
 
 
 -----------------------------------------------------------------------------------------------------------------
@@ -43,9 +43,9 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 
 ## C02
 
-· 00-08 OK
+* 00-08 OK
 
-· 09-12 OK
+* 09-12 OK
 
 
 -----------------------------------------------------------------------------------------------------------------
@@ -53,7 +53,7 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 
 ## C03
 
-· all are OK
+* all are OK
 
 
 -----------------------------------------------------------------------------------------------------------------
@@ -61,13 +61,13 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 
 ## C04
 
-· 00-02 OK
+* 00-02 OK
 
-· 03 KO
+* 03 KO
 
-· 04 OK
+* 04 OK
 
-· 05 KO
+* 05 KO
 
 
 -----------------------------------------------------------------------------------------------------------------
@@ -75,9 +75,9 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 
 ## C05
 
-· 00-07 OK
+* 00-07 OK
 
-· 08 timeout (uhm, I don't wanna talk about it, it gets the right answer, it just takes about 8 mins, I hec*ing love brute force)
+* 08 timeout (uhm, I don't wanna talk about it, it gets the right answer, it just takes about 8 mins, I hec*ing love brute force)
 
 
 -----------------------------------------------------------------------------------------------------------------
@@ -85,7 +85,7 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 
 ## C06
 
-· all are ok
+* all are ok
 
 
 -----------------------------------------------------------------------------------------------------------------
@@ -93,9 +93,9 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 
 ## C07:
 
-· 00-03 OK
+* 00-03 OK
 
-. 04-05 KO (check C09 ex02 for split solution, I fixed it there)
+* 04-05 KO (check C09 ex02 for split solution, I fixed it there)
 
 
 -----------------------------------------------------------------------------------------------------------------
@@ -103,11 +103,11 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 
 ## C08:
 
-· 00-03 OK
+* 00-03 OK
 
-· 04 Test 1 KO (I'm not really sure what that means but ok, I assume it's a only failed test 1? maybe it's a you moron it didn't even pass the first case)
+* 04 Test 1 KO (I'm not really sure what that means but ok, I assume it's a only failed test 1? maybe it's a you moron it didn't even pass the first case)
 
-· 05 OK
+* 05 OK
 
 
 -----------------------------------------------------------------------------------------------------------------
@@ -115,7 +115,7 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 
 ## C09
 
-· all are OK
+* all are OK
 
 
 -----------------------------------------------------------------------------------------------------------------
@@ -123,13 +123,13 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 
 ## C10:
 
-· 00 OK
+* 00 OK
 
-· 01 does not compile (I'm not sure why)
+* 01 does not compile (I'm not sure why)
 
-· 02 KO
+* 02 KO
 
-· 03 not done (you must actually, you must get a 100.. yeah that's annoying)
+* 03 not done (you must actually, you must get a 100.. yeah that's annoying)
 
 
 -----------------------------------------------------------------------------------------------------------------
@@ -137,11 +137,11 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 
 ## C11
 
-· 00 OK
+* 00 OK
 
-· 01 Cheating (LOL, I used free to free up a failed malloc when that doesn't even make sense and the use of free was not allowed, remove that free and it should be ok, I think. that's what happens when you don't read)
+* 01 Cheating (LOL, I used free to free up a failed malloc when that doesn't even make sense and the use of free was not allowed, remove that free and it should be ok, I think. that's what happens when you don't read)
 
-· 02-07 KO
+* 02-07 KO
 
 Uhm, these are actually not the real solutions I submitted, I fixed most of the KO and forgor to commit them here (not the cheating one, because I'm a moron), and now I got no way to get them back, sorry-, I'll leave what I think they would get
 
@@ -151,7 +151,7 @@ Uhm, these are actually not the real solutions I submitted, I fixed most of the 
 
 ## C12
 
-· never got to correct them
+* never got to correct them
 
 
 -----------------------------------------------------------------------------------------------------------------
@@ -159,7 +159,7 @@ Uhm, these are actually not the real solutions I submitted, I fixed most of the 
 
 ## C13
 
-· never got to correct them, also last one is not even done because I was too tired to learn BFS
+* never got to correct them, also last one is not even done because I was too tired to learn BFS
 
 
 -----------------------------------------------------------------------------------------------------------------
