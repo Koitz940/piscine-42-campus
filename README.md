@@ -15,7 +15,7 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 -----------------------------------------------------------------------------------------------------------------
 
 
-# Shell01
+## Shell01
 
 · 01-05 OK
 
@@ -25,7 +25,7 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 -----------------------------------------------------------------------------------------------------------------
 
 
-# C00
+## C00
 
 ·all are OK
 
@@ -33,7 +33,7 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 -----------------------------------------------------------------------------------------------------------------
 
 
-# C01
+## C01
 
 ·all are OK
 
@@ -41,7 +41,7 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 -----------------------------------------------------------------------------------------------------------------
 
 
-# C02
+## C02
 
 · 00-08 OK
 
@@ -51,7 +51,7 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 -----------------------------------------------------------------------------------------------------------------
 
 
-# C03
+## C03
 
 · all are OK
 
@@ -59,7 +59,7 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 -----------------------------------------------------------------------------------------------------------------
 
 
-# C04
+## C04
 
 · 00-02 OK
 
@@ -73,7 +73,7 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 -----------------------------------------------------------------------------------------------------------------
 
 
-# C05
+## C05
 
 · 00-07 OK
 
@@ -83,7 +83,7 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 -----------------------------------------------------------------------------------------------------------------
 
 
-# C06
+## C06
 
 ·all are ok
 
@@ -91,7 +91,7 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 -----------------------------------------------------------------------------------------------------------------
 
 
-# C07:
+## C07:
 
 · 00-03 OK
 
@@ -101,7 +101,7 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 -----------------------------------------------------------------------------------------------------------------
 
 
-# C08:
+## C08:
 
 · 00-03 OK
 
@@ -113,7 +113,7 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 -----------------------------------------------------------------------------------------------------------------
 
 
-# C09
+## C09
 
 · all are OK
 
@@ -121,7 +121,7 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 -----------------------------------------------------------------------------------------------------------------
 
 
-# C10:
+## C10:
 
 · 00 OK
 
@@ -135,7 +135,7 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 -----------------------------------------------------------------------------------------------------------------
 
 
-# C11: (uhm, these are actually not the real solutions I submitted, I fixed most of the KO and forgor to commit them here (not the cheating one, because I'm a moron), and now I got no way to get them back, sorry-, I'll leave what I think they would get)
+## C11: (uhm, these are actually not the real solutions I submitted, I fixed most of the KO and forgor to commit them here (not the cheating one, because I'm a moron), and now I got no way to get them back, sorry-, I'll leave what I think they would get)
 
 · 00 OK
 
@@ -147,7 +147,7 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 -----------------------------------------------------------------------------------------------------------------
 
 
-# C12
+## C12
 
 · never got to correct them
 
@@ -155,7 +155,7 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 -----------------------------------------------------------------------------------------------------------------
 
 
-# C13
+## C13
 
 · never got to correct them, also last one is not even done because I was too tired to learn BFS
 
