@@ -83,7 +83,7 @@ C08:
 
 · 00-03 OK
 
-· 04 Test 1 KO (I'm not really sure what that means but ok, I assume it's a only failed test 1? maybe it's a you moron it didn't eve pass the first case)
+· 04 Test 1 KO (I'm not really sure what that means but ok, I assume it's a only failed test 1? maybe it's a you moron it didn't even pass the first case)
 
 · 05 OK
 
