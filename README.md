@@ -4,7 +4,7 @@ My solutions of the exercises I've done, most are right, some are wrong. Here ar
 Before anything tho, I recommend trying them out for yourselves before copying, that's the only way to learn, same applies for the use of chatgpt and its cousins (fun fact, they are quite terrible at C for some reason).
 
 
-## Shell00:
+## Shell00
 
 * all are OK
 
@@ -69,7 +69,7 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 
 
 
-## C07:
+## C07
 
 * 00-03 OK
 
@@ -77,7 +77,7 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 
 
 
-## C08:
+## C08
 
 * 00-03 OK
 
@@ -93,7 +93,7 @@ Before anything tho, I recommend trying them out for yourselves before copying, 
 
 
 
-## C10:
+## C10
 
 * 00 OK
 
